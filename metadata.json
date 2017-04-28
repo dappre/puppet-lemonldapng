@@ -1,12 +1,12 @@
 {
-  "name": "lemonldap_ng",
+  "name": "lemonldapng",
   "version": "0.1.0",
   "author": "digital-me",
   "summary": "Manage LemonLDAP::NG installation and configuration",
   "license": "GPLv3",
-  "source": "https://github.com/digital-me/puppet-lemonldap-ng.git",
-  "project_page": "https://github.com/digital-me/puppet-lemonldap-ng",
-  "issues_url": "https://github.com/digital-me/puppet-lemonldap-ng/issues",
+  "source": "https://github.com/digital-me/puppet-lemonldapng.git",
+  "project_page": "https://github.com/digital-me/puppet-lemonldapng",
+  "issues_url": "https://github.com/digital-me/puppet-lemonldapng/issues",
   "dependencies": [
     {"version_requirement":">= 1.0.0","name":"puppetlabs-stdlib"}
   ]
