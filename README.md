@@ -4,10 +4,10 @@
 
 1. [Overview](#overview)
 2. [Module Description - What the module does and why it is useful](#module-description)
-3. [Setup - The basics of getting started with lemonldap-ng](#setup)
-    * [What lemonldap-ng affects](#what-lemonldap-ng-affects)
+3. [Setup - The basics of getting started with lemonldap_ng](#setup)
+    * [What lemonldap_ng affects](#what-lemonldap_ng-affects)
     * [Setup requirements](#setup-requirements)
-    * [Beginning with lemonldap-ng](#beginning-with-lemonldap-ng)
+    * [Beginning with lemonldap_ng](#beginning-with-lemonldap_ng)
 4. [Usage - Configuration options and additional functionality](#usage)
 5. [Reference - An under-the-hood peek at what the module is doing and how](#reference)
 5. [Limitations - OS compatibility, etc.](#limitations)
@@ -31,7 +31,7 @@ management, etc.) this is the time to mention it.
 
 ## Setup
 
-### What lemonldap-ng affects
+### What lemonldap_ng affects
 
 * A list of files, packages, services, or operations that the module will alter,
   impact, or execute on the system it's installed on.
@@ -43,7 +43,7 @@ management, etc.) this is the time to mention it.
 If your module requires anything extra before setting up (pluginsync enabled,
 etc.), mention it here.
 
-### Beginning with lemonldap-ng
+### Beginning with lemonldap_ng
 
 The very basic steps needed for a user to get the module up and running.
 

@@ -1,5 +1,5 @@
 {
-  "name": "lemonldap-ng",
+  "name": "lemonldap_ng",
   "version": "0.1.0",
   "author": "digital-me",
   "summary": "Manage LemonLDAP::NG installation and configuration",
